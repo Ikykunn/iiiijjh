@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
+global.owner = ['6285878836361']
+global.ownernomer = "6285878836361"
+global.premium = ['6283817161861']
 global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
+global.author = 'ikybot'
 global.sessionName = 'papah'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -59,7 +59,7 @@ global.thumb = fs.readFileSync('./media/image/papah.jpg')
 global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
-global.mygit = 'https://github.com/FahriAdison'
+global.mygit = 'https://github.com/rizkiwibu'
 global.myyt = 'https://bit.ly/Papah-Chan'
 global.myytv = ''
 global.mygc = ""
