@@ -60,14 +60,14 @@ global.faall = fs.readFileSync('./media/image/menu.jpg')
 
 // Url
 global.mygit = 'https://github.com/rizkiwibu'
-global.myyt = 'https://bit.ly/Papah-Chan'
-global.myytv = ''
-global.mygc = ""
+global.myyt = 'youtube.com/@RIZKIIRFAN'
+global.myytv = 'youtube.com/@RIZKIIRFAN'
+global.mygc = "https://chat.whatsapp.com/KcMIbBUddqjIoNmGCrRU5m"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'iky BOT'
+global.akulaku = 'Bot By rizki'
+global.ytname = 'RIZKI IRFAN' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
